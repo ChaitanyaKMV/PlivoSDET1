@@ -1,0 +1,56 @@
+15/02/2019 13:37:53- com.Base.Log- 
+ 
+
+15/02/2019 13:37:53- com.Base.Log- ********* Test class starts ********** class org.testng.TestRunner
+15/02/2019 13:37:53- com.Base.Log- 
+ 
+
+15/02/2019 13:37:53- com.Base.Log- **** Browser Launching ***** 
+15/02/2019 13:37:57- com.Base.Log- **** Navigating to URL ***** http://quickfuseapps.com/
+15/02/2019 13:38:01- com.Base.Log- 
+ 
+
+15/02/2019 13:38:01- com.Base.Log- ***********************************************************
+15/02/2019 13:38:01- com.Base.Log- ***********************************************************
+15/02/2019 13:38:01- com.Base.Log- ************** On Test starts *************** createAppTest
+15/02/2019 13:38:01- com.Base.Log- ***********************************************************
+15/02/2019 13:38:01- com.Base.Log- ***********************************************************
+15/02/2019 13:38:01- com.Base.Log- Clicking create an app button 
+15/02/2019 13:38:07- com.Base.Log- ------------------------------------ test1
+15/02/2019 13:38:07- com.Base.Log-  ########## On Test success ########## createAppTest
+15/02/2019 13:38:07- com.Base.Log- 
+ 
+
+15/02/2019 13:38:07- com.Base.Log- 
+ 
+
+15/02/2019 13:38:07- com.Base.Log- ***********************************************************
+15/02/2019 13:38:07- com.Base.Log- ***********************************************************
+15/02/2019 13:38:07- com.Base.Log- ************** On Test starts *************** validSignup
+15/02/2019 13:38:07- com.Base.Log- ***********************************************************
+15/02/2019 13:38:07- com.Base.Log- ***********************************************************
+15/02/2019 13:38:07- com.Base.Log- Click on Let's get started 
+15/02/2019 13:38:07- com.Base.Log- Click on add new page 
+15/02/2019 13:38:16- com.Base.Log- Select send sms menu to drop
+15/02/2019 13:38:22- com.Base.Log-  ########## On Test success ########## validSignup
+15/02/2019 13:38:22- com.Base.Log- 
+ 
+
+15/02/2019 13:38:22- com.Base.Log- ****************************  Closing browser **************************************** 
+15/02/2019 13:38:22- com.Base.Log- 
+ 
+
+15/02/2019 13:38:25- com.Base.Log- ===============================================================
+15/02/2019 13:38:25- com.Base.Log- =====================Tests finished===========================
+15/02/2019 13:38:25- com.Base.Log- ===== Test Passed ===== [ResultMap map={[TestResult name=validSignup status=SUCCESS method=DragTest.validSignup()[pri:1, instance:com.PlivoSDET1.DragTest@2bcfcb] output={null}]=DragTest.validSignup()[pri:1, instance:com.PlivoSDET1.DragTest@2bcfcb], [TestResult name=createAppTest status=SUCCESS method=DragTest.createAppTest()[pri:0, instance:com.PlivoSDET1.DragTest@2bcfcb] output={null}]=DragTest.createAppTest()[pri:0, instance:com.PlivoSDET1.DragTest@2bcfcb]}] ===========
+15/02/2019 13:38:25- com.Base.Log- ===== Test Failed ===== [ResultMap map={}] ===========
+15/02/2019 13:38:25- com.Base.Log- ===============================================================
+15/02/2019 13:38:25- com.Base.Log- 
+ 
+
+15/02/2019 13:38:25- com.Base.Log- ######################## Web Report URL: ########################
+15/02/2019 13:38:25- com.Base.Log- C:\Users\Plivo\eclipse-workspace\PlivoSDET1/Reports/Report_150219_1550218081883.html
+15/02/2019 13:38:25- com.Base.Log- ######################## Web Report URL: ########################
+15/02/2019 13:38:25- com.Base.Log- 
+ 
+

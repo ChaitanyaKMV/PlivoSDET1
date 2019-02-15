@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PlivoSDET1" duration-ms="31325" started-at="2019-02-15T08:07:53Z" finished-at="2019-02-15T08:08:25Z">
+    <groups>
+    </groups>
+    <test name="UI Test Drag and Drop" duration-ms="31325" started-at="2019-02-15T08:07:53Z" finished-at="2019-02-15T08:08:25Z">
+      <class name="com.PlivoSDET1.DragTest">
+        <test-method status="PASS" signature="initializeTestBaseSetup()[pri:0, instance:com.PlivoSDET1.DragTest@2bcfcb]" name="initializeTestBaseSetup" is-config="true" duration-ms="7982" started-at="2019-02-15T08:07:53Z" finished-at="2019-02-15T08:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="PASS" signature="createAppTest()[pri:0, instance:com.PlivoSDET1.DragTest@2bcfcb]" name="createAppTest" duration-ms="5830" started-at="2019-02-15T08:08:01Z" finished-at="2019-02-15T08:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAppTest -->
+        <test-method status="PASS" signature="validSignup()[pri:1, instance:com.PlivoSDET1.DragTest@2bcfcb]" name="validSignup" duration-ms="15033" started-at="2019-02-15T08:08:07Z" finished-at="2019-02-15T08:08:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSignup -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.PlivoSDET1.DragTest@2bcfcb]" name="closeBrowser" is-config="true" duration-ms="2394" started-at="2019-02-15T08:08:22Z" finished-at="2019-02-15T08:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.PlivoSDET1.DragTest -->
+    </test> <!-- UI Test Drag and Drop -->
+  </suite> <!-- PlivoSDET1 -->
+</testng-results>

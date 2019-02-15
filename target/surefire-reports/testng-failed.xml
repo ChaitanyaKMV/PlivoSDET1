@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [PlivoSDET1]">
+  <listeners>
+    <listener class-name="com.Base.TestListeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="UI Test Drag and Drop(failed)">
+    <classes>
+      <class name="com.PlivoSDET1.DragTest">
+        <methods>
+          <include name="initializeTestBaseSetup"/>
+          <include name="validSignup"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.PlivoSDET1.DragTest -->
+    </classes>
+  </test> <!-- UI Test Drag and Drop(failed) -->
+</suite> <!-- Failed suite [PlivoSDET1] -->
