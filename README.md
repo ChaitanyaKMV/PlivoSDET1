@@ -1,2 +1,1 @@
-# CognitiveTest
-CognitiveScale Task
+# PlivoSDET UI test
